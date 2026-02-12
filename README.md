@@ -3,6 +3,7 @@
 
 | Date | <abbr title="Common Vulnerabilities and Exposures">CVE</abbr> ID | <abbr title="GitHub Security Advisory">GHSA</abbr> | Description |
 | - | - | - | - |
+| 2026-02-11 | [CVE-2026-2391](https://www.cve.org/CVERecord?id=CVE-2026-2391) | [GHSA&#8209;w7fw&#8209;mjwx&#8209;w883](https://github.com/ljharb/qs/security/advisories/GHSA-w7fw-mjwx-w883) | qs's arrayLimit bypass in comma parsing allows denial of service |
 | 2025-12-29 | [CVE-2025-15284](https://www.cve.org/CVERecord?id=CVE-2025-15284) | [GHSA&#8209;6rw7&#8209;vpxm&#8209;498p](https://github.com/ljharb/qs/security/advisories/GHSA-6rw7-vpxm-498p) | arrayLimit bypass in bracket notation allows DoS via memory exhaustion |
 | 2025-08-20 | [CVE-2025-9288](https://www.cve.org/CVERecord?id=CVE-2025-9288) | [GHSA&#8209;95m3&#8209;7q98&#8209;8xr5](https://github.com/browserify/sha.js/security/advisories/GHSA-95m3-7q98-8xr5) | Missing Type Checks Leading To Hash Rewind And Passing On Crafted Data |
 | 2025-08-20 | [CVE-2025-9287](https://www.cve.org/CVERecord?id=CVE-2025-9287) | [GHSA&#8209;cpq7&#8209;6gpm&#8209;g9rc](https://github.com/browserify/cipher-base/security/advisories/GHSA-cpq7-6gpm-g9rc) | Missing Type Checks Leading To Hash Rewind And Passing On Crafted Data |
